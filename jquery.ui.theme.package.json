@@ -1,7 +1,7 @@
 {
-	"name": "ui-accordion",
+	"name": "ui-theme",
 	"version": "1.8.17",
-	"title": "jQuery UI Accordion",
+	"title": "jQuery UI Base Theme",
 	"author": {
 		"name": "jQuery UI Team"
 	},
@@ -16,29 +16,23 @@
 		}
 	],
 	"dependencies": {
-		"jquery": "1.3.2+",
-		"ui-core": "1.8.17",
-		"ui-widget": "1.8.17",
-		"ui-css": "1.8.17",
-		"ui-theme": "1.8.17"
+		"jquery": "1.3.2+"
 	},
 	"description": "TODO",
 	"keywords": [
 		"jQuery UI",
-		"Accordion",
-		"Panels",
-		"Collapse",
-		"Expand"
+		"Base",
+		"Theme"
 	],
-	"homepage": "http://jqueryui.com/accordion",
-	"docs": "http://api.jqueryui.com/accordion",
+	"homepage": "http://jqueryui.com/docs/Theming",
+	"docs": "http://jqueryui.com/docs/Theming/API",
 	"maintainers": [
 		{
 			"name": "jQuery UI Team"
 		}
 	],
 	"files": [
-		"themes/base/jquery.ui.accordion.css",
-		"ui/jquery.ui.accordion.js"
+		"themes/base/jquery.ui.theme.css",
+		"themes/base/images/"
 	]
 }

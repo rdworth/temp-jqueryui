@@ -18,8 +18,9 @@
 	"dependencies": {
 		"jquery": "1.3.2+",
 		"ui-core": "1.8.17",
+		"ui-widget": "1.8.17",
 		"ui-css": "1.8.17",
-		"ui-widget": "1.8.17"
+		"ui-theme": "1.8.17"
 	},
 	"description": "TODO",
 	"keywords": [
@@ -34,7 +35,7 @@
 		}
 	],
 	"files": [
-		"themes/base/jquery.ui.tabs.css"
+		"themes/base/jquery.ui.tabs.css",
 		"ui/jquery.ui.tabs.js"
 	]
 }
