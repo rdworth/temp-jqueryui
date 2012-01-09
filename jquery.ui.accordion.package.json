@@ -1,0 +1,43 @@
+{
+	"name": "ui-accordion",
+	"version": "1.8.17",
+	"title": "jQuery UI Accordion",
+	"author": {
+		"name": "jQuery UI Team"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://github.com/jquery/jquery-ui/blob/master/MIT-LICENSE.txt"
+		},
+		{
+			"type": "GPL",
+			"url": "http://github.com/jquery/jquery-ui/blob/master/GPL-LICENSE.txt"
+		}
+	],
+	"dependencies": {
+		"jquery": "1.3.2+",
+		"ui-core": "1.8.17",
+		"ui-css": "1.8.17",
+		"ui-widget": "1.8.17"
+	},
+	"description": "TODO",
+	"keywords": [
+		"jQuery UI",
+		"Accordion",
+		"Panels",
+		"Collapse",
+		"Expand"
+	],
+	"homepage": "http://jqueryui.com/accordion",
+	"docs": "http://api.jqueryui.com/accordion",
+	"maintainers": [
+		{
+			"name": "jQuery UI Team"
+		}
+	],
+	"files": [
+		"themes/base/jquery.ui.accordion.css"
+		"ui/jquery.ui.accordion.js"
+	]
+}

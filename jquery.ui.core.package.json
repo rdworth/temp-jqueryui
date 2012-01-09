@@ -1,0 +1,40 @@
+{
+	"name": "ui-core",
+	"version": "1.8.17",
+	"title": "jQuery UI Core",
+	"author": {
+		"name": "jQuery UI Team"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://github.com/jquery/jquery-ui/blob/master/MIT-LICENSE.txt"
+		},
+		{
+			"type": "GPL",
+			"url": "http://github.com/jquery/jquery-ui/blob/master/GPL-LICENSE.txt"
+		}
+	],
+	"dependencies": {
+		"jquery": "1.3.2+"
+	},
+	"description": "The core of the jQuery UI Suite. Contains some common code used across many plugins within jQuery UI.",
+	"keywords": [
+		"jQuery UI",
+		"core",
+		"keyCodes",
+		"zIndex",
+		"focusable",
+		"tabbable"
+	],
+	"homepage": "http://jqueryui.com/core",
+	"docs": "http://api.jqueryui.com/core",
+	"maintainers": [
+		{
+			"name": "jQuery UI Team"
+		}
+	],
+	"files": [
+		"ui/jquery.ui.core.js"
+	]
+}

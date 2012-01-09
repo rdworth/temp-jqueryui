@@ -1,0 +1,37 @@
+{
+	"name": "ui-widget",
+	"version": "1.8.17",
+	"title": "jQuery UI Widget Factory",
+	"author": {
+		"name": "jQuery UI Team"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://github.com/jquery/jquery-ui/blob/master/MIT-LICENSE.txt"
+		},
+		{
+			"type": "GPL",
+			"url": "http://github.com/jquery/jquery-ui/blob/master/GPL-LICENSE.txt"
+		}
+	],
+	"dependencies": {
+		"jquery": "1.3.2+"
+	},
+	"description": "Used by widgets in the jQuery UI suite. Can also be used to create your own widgets. Does not depend on jQuery UI",
+	"keywords": [
+		"jQuery UI",
+		"widget",
+		"factory"
+	],
+	"homepage": "http://jqueryui.com/widget",
+	"docs": "http://api.jqueryui.com/widget",
+	"maintainers": [
+		{
+			"name": "jQuery UI Team"
+		}
+	],
+	"files": [
+		"ui/jquery.ui.widget.js"
+	]
+}
