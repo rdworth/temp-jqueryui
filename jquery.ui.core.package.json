@@ -16,7 +16,7 @@
 		}
 	],
 	"dependencies": {
-		"jquery": "1.3.2+"
+		"jquery": ">=1.3.2"
 	},
 	"description": "The core of the jQuery UI Suite. Contains some common code used across many plugins within jQuery UI.",
 	"keywords": [
