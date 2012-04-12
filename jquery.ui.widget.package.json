@@ -1,6 +1,6 @@
 {
-	"name": "ui-widget",
-	"version": "1.8.17",
+	"name": "jquery.ui.widget",
+	"version": "1.8.18",
 	"title": "jQuery UI Widget Factory",
 	"author": {
 		"name": "jQuery UI Team"

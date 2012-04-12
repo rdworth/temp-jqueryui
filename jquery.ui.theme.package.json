@@ -1,6 +1,6 @@
 {
-	"name": "ui-theme",
-	"version": "1.8.17",
+	"name": "jquery.ui.theme",
+	"version": "1.8.18",
 	"title": "jQuery UI Base Theme",
 	"author": {
 		"name": "jQuery UI Team"

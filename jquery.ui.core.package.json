@@ -1,6 +1,6 @@
 {
-	"name": "ui-core",
-	"version": "1.8.17",
+	"name": "jquery.ui.core",
+	"version": "1.8.18",
 	"title": "jQuery UI Core",
 	"author": {
 		"name": "jQuery UI Team"

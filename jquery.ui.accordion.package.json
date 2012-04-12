@@ -1,6 +1,6 @@
 {
-	"name": "ui-accordion",
-	"version": "1.8.17",
+	"name": "jquery.ui.accordion",
+	"version": "1.8.18",
 	"title": "jQuery UI Accordion",
 	"author": {
 		"name": "jQuery UI Team"
@@ -17,10 +17,10 @@
 	],
 	"dependencies": {
 		"jquery": ">=1.3.2",
-		"ui-core": "1.8.17",
-		"ui-widget": "1.8.17",
-		"ui-css": "1.8.17",
-		"ui-theme": "1.8.17"
+		"jquery.ui.core": "1.8.18",
+		"jquery.ui.widget": "1.8.18",
+		"jquery.ui.css": "1.8.18",
+		"jquery.ui.theme": "1.8.18"
 	},
 	"description": "TODO",
 	"keywords": [
