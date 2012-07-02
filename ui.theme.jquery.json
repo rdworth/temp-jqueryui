@@ -1,7 +1,7 @@
 {
-	"name": "jquery.ui.css",
+	"name": "ui.theme",
 	"version": "1.8.18",
-	"title": "jQuery UI CSS Framework",
+	"title": "jQuery UI Base Theme",
 	"author": {
 		"name": "jQuery UI Team"
 	},
@@ -21,18 +21,18 @@
 	"description": "TODO",
 	"keywords": [
 		"jQuery UI",
-		"CSS",
-		"Framework",
-		"Widget"
+		"Base",
+		"Theme"
 	],
-	"homepage": "http://jqueryui.com/core",
-	"docs": "http://api.jqueryui.com/core",
+	"homepage": "http://jqueryui.com/docs/Theming",
+	"docs": "http://jqueryui.com/docs/Theming/API",
 	"maintainers": [
 		{
 			"name": "jQuery UI Team"
 		}
 	],
 	"files": [
-		"themes/base/jquery.ui.core.css"
+		"themes/base/jquery.ui.theme.css",
+		"themes/base/images/"
 	]
 }

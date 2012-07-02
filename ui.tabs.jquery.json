@@ -1,7 +1,7 @@
 {
-	"name": "jquery.ui.theme",
+	"name": "ui.tabs",
 	"version": "1.8.18",
-	"title": "jQuery UI Base Theme",
+	"title": "jQuery UI Tabs",
 	"author": {
 		"name": "jQuery UI Team"
 	},
@@ -16,23 +16,26 @@
 		}
 	],
 	"dependencies": {
-		"jquery": ">=1.3.2"
+		"jquery": ">=1.3.2",
+		"ui.core": "1.8.18",
+		"ui.widget": "1.8.18",
+		"ui.css": "1.8.18",
+		"ui.theme": "1.8.18"
 	},
 	"description": "TODO",
 	"keywords": [
 		"jQuery UI",
-		"Base",
-		"Theme"
+		"Tabs"
 	],
-	"homepage": "http://jqueryui.com/docs/Theming",
-	"docs": "http://jqueryui.com/docs/Theming/API",
+	"homepage": "http://jqueryui.com/tabs",
+	"docs": "http://api.jqueryui.com/tabs",
 	"maintainers": [
 		{
 			"name": "jQuery UI Team"
 		}
 	],
 	"files": [
-		"themes/base/jquery.ui.theme.css",
-		"themes/base/images/"
+		"themes/base/jquery.ui.tabs.css",
+		"ui/jquery.ui.tabs.js"
 	]
 }

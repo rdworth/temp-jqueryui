@@ -1,7 +1,7 @@
 {
-	"name": "jquery.ui.tabs",
+	"name": "ui.widget",
 	"version": "1.8.18",
-	"title": "jQuery UI Tabs",
+	"title": "jQuery UI Widget Factory",
 	"author": {
 		"name": "jQuery UI Team"
 	},
@@ -16,26 +16,22 @@
 		}
 	],
 	"dependencies": {
-		"jquery": ">=1.3.2",
-		"jquery.ui.core": "1.8.18",
-		"jquery.ui.widget": "1.8.18",
-		"jquery.ui.css": "1.8.18",
-		"jquery.ui.theme": "1.8.18"
+		"jquery": ">=1.3.2"
 	},
-	"description": "TODO",
+	"description": "Used by widgets in the jQuery UI suite. Can also be used to create your own widgets. Does not depend on jQuery UI",
 	"keywords": [
 		"jQuery UI",
-		"Tabs"
+		"widget",
+		"factory"
 	],
-	"homepage": "http://jqueryui.com/tabs",
-	"docs": "http://api.jqueryui.com/tabs",
+	"homepage": "http://jqueryui.com/widget",
+	"docs": "http://api.jqueryui.com/widget",
 	"maintainers": [
 		{
 			"name": "jQuery UI Team"
 		}
 	],
 	"files": [
-		"themes/base/jquery.ui.tabs.css",
-		"ui/jquery.ui.tabs.js"
+		"ui/jquery.ui.widget.js"
 	]
 }
