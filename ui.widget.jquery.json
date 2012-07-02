@@ -20,7 +20,7 @@
 	},
 	"description": "Used by widgets in the jQuery UI suite. Can also be used to create your own widgets. Does not depend on jQuery UI",
 	"keywords": [
-		"jQuery UI",
+		"UI",
 		"widget",
 		"factory"
 	],
